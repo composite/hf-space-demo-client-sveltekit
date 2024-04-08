@@ -2,6 +2,12 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
+## Credits
+
+- Hugging face
+- `@gradio/client`
+- [Qwen1.5-32B-Chat](https://huggingface.co/spaces/Qwen/Qwen1.5-32B-Chat-demo)
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
